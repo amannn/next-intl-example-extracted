@@ -7,12 +7,104 @@ msgstr ""
 "X-Crowdin-SourceKey: msgstr\n"
 
 #: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "+TS8Iy"
+msgstr "Payout Amount"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+#: src/components/auth-flow.tsx
+msgid "39AHJm"
+msgstr "Sign Up"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "8is3TT"
+msgstr "Instagram Handle"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "BCPu/a"
+msgstr "Claim Payout"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "BhcuU7"
+msgstr "Wrong Account Connected"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "C81/uG"
+msgstr "Logout"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "EzS+4s"
+msgstr "YouTube Account"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "FMQPWh"
+msgstr "This payout link has expired"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/email-verification-button.tsx
+msgid "Ge9IQ8"
+msgstr "Verify E-Mail"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
 msgid "HEfhYI"
 msgstr "E-Mail"
 
 #: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "iNWbVV"
+msgstr "Handle"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "LxSJOb"
+msgstr "Go to Dashboard"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "nbwXXN"
+msgstr "Sender"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "Nr9pdO"
+msgstr "You have an unclaimed payout. Create an account and verify to claim it."
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "P8P9hw"
+msgstr "Connect Instagram"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
 msgid "Q8Qw5B"
 msgstr "Description"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "QcGxeQ"
+msgstr "Not yet approved! Contact Support"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "qwBH7M"
+msgstr "TikTok Handle"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "shD+D1"
+msgstr "Already paid out"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "TsAOwA"
+msgstr "Connect YouTube"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "UyaphU"
+msgstr "Unclaimed Payout"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "WNZyhY"
+msgstr "Campaign Not Found"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "wzsglD"
+msgstr "Connect TikTok"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "xdVU3q"
+msgstr "Payout"
 
 #: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
 #: src/app/[locale]/dashboard/common/claim/bank-data.tsx
@@ -20,43 +112,642 @@ msgstr "Description"
 msgid "YdQxfw"
 msgstr "Contact Support"
 
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+msgid "/94BE8"
+msgstr "Create New Account"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+msgid "2U1ixK"
+msgstr "Sign Up With Email"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+msgid "7Reu3j"
+msgstr "Found Existing Account (Recommended)"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+msgid "ky0m1H"
+msgstr "Log In with Base"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+#: src/components/auth-flow.tsx
+msgid "r2Jjms"
+msgstr "Log In"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/not-logged-in-buttons.tsx
+msgid "SZl+mn"
+msgstr "Log In with Email"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "/VnDMl"
+msgstr "Other"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "+SgU+0"
+msgstr "IBAN"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "3h4TxV"
+msgstr "For non-IBAN bank accounts, please contact our support team to update your bank account details."
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "5mVBkV"
+msgstr "IBAN Bank Account"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "BWpuKl"
+msgstr "Update"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "G+I679"
+msgstr "Your non-IBAN account has been set up. Please contact our support team to update your bank account details."
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "K1uUiB"
+msgstr "Account Type"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "miRTTe"
+msgstr "Select account type"
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "OnfEW4"
+msgstr "This is your IBAN account number. Only accounts in your name are allowed."
+
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+msgid "uzXnHI"
+msgstr "Select your bank account type."
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "/n98Fm"
+msgstr "Your First Name"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "7PV7RV"
+msgstr "Your Last Name as Written On Official Documents"
+
 #: src/app/[locale]/dashboard/common/claim/personal-data.tsx
 #: src/app/common/claim-dialog/common/payment-method.tsx
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+#: src/app/common/claim-dialog/idle.tsx
 msgid "acrOoz"
 msgstr "Continue"
 
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "aheQdn"
+msgstr "Last Name"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "aN3qnI"
+msgstr "Zip/Postal Code *"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
 #: src/app/common/claim-dialog/common/address-edit.tsx
 #: src/app/common/claim-dialog/common/bank-details-edit.tsx
+#: src/app/common/claim-dialog/common/confirm.tsx
 #: src/app/common/claim-dialog/common/edit-vat.tsx
 msgid "ekfOaV"
 msgstr "Go Back"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "K56Dim"
+msgstr "Organization"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "ku+mDU"
+msgstr "State"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "LqFfRA"
+msgstr "Country *"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "LvnGhM"
+msgstr "Your Zip/Postal Code"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "Lxf/9+"
+msgstr "Your State"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "NNklzK"
+msgstr "Your City"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "Q6wcZ5"
+msgstr "First Name"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "R0IxRM"
+msgstr "City *"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "rjxDoy"
+msgstr "Your Last Name"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "t9LsZ3"
+msgstr "Address Line 1 *"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "TEKTPp"
+msgstr "Leave this empty if you're represented as a private person"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "vLBHhH"
+msgstr "Your First Name as Written On Official Documents"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "vY236b"
+msgstr "Your Organization"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "WhLfzM"
+msgstr "Address Line 2"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "YjDX0O"
+msgstr "Your Address Line 1"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+msgid "YKeum3"
+msgstr "Your Address Line 2"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "+nGVRe"
+msgstr "Select 'I'm VAT exempt' if you are a small business below the VAT threshold, or 'I need to pay VAT in Europe' if your business is VAT-registered. If you don't know, please contact your local tax authority."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "47FYwb"
+msgstr "Cancel"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "6HcYZb"
+msgstr "Select whether you are a VAT payer in Europe."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "6k0/bY"
+msgstr "The format of the VAT number is usually a country code followed by numbers. For example,"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "7XParI"
+msgstr "DE123456789"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "bPVZm2"
+msgstr "You are not in an EU country. No need to provide VAT information."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "cO//Uf"
+msgstr "VAT Number"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "f70UQz"
+msgstr "By confirming, you are stating that the provided VAT-ID is accurate and belongs to you. Providing false information may constitute tax fraud."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "FefjKK"
+msgstr "What is the format of the VAT number?"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "fmiOh+"
+msgstr "I'm VAT exempt"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "g8k8ok"
+msgstr "How to find this information?"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "HhvK+P"
+msgstr "What do I need to select?"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "I2Ar+9"
+msgstr "Warning: Tax Information"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "jb8hFa"
+msgstr "Enter your Tax Identification Number. You take responsibility for the accuracy of the information provided."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+#: src/app/common/claim-dialog/common/address-edit.tsx
+msgid "jvo0vs"
+msgstr "Save"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "KKzyUr"
+msgstr "By confirming, you are stating that the provided Tax Identification Number is accurate and belongs to you."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "N2g9V6"
+msgstr "I need help with this."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+#: src/app/common/claim-dialog/common/confirm.tsx
+#: src/components/auth-flow.tsx
+msgid "N2IrpM"
+msgstr "Confirm"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "prhD2U"
+msgstr "VAT Status"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "rYPoyW"
+msgstr "Country code + numbers"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "VMYpQH"
+msgstr "Tax Identification Number (TIN)"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "X0TROU"
+msgstr "Why do I need to enter a Tax Identification Number (TIN)?"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "xFKnL+"
+msgstr "e.g. GB123456789"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "xYRrRS"
+msgstr "e.g. 123/4556/8900"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "ya6L6c"
+msgstr "If you need additional help, please contact support."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "YGR915"
+msgstr "In certain regions, you need to provide a Tax Identification Number, even if you are VAT exempt. This is the unique number assigned to your business by the tax authority."
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "YZLyK2"
+msgstr "Enter your European VAT registration number"
+
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "zGfVfw"
+msgstr "I need to pay VAT in Europe"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "/0TOL5"
+msgstr "Amount"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "4pJVaS"
+msgstr "Select row"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "6Sj2lN"
+msgstr "Claim"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "94Fg25"
+msgstr "Select all"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "9a9+ww"
+msgstr "Title"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "daQ4aB"
+msgstr "Unclaimed Payouts"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "GjAPpU"
+msgstr "You have {count} earnings ready to be paid out"
+
+#: src/app/[locale]/dashboard/home/claim-payouts.tsx
+msgid "JK1klU"
+msgstr "Loading your unclaimed payouts..."
+
+#: src/app/common/claim-dialog/common/address-edit.tsx
+msgid "uSpe21"
+msgstr "Edit Address"
 
 #: src/app/common/claim-dialog/common/bank-details-edit.tsx
 msgid "0YLIwT"
 msgstr "Edit Bank Details"
 
 #: src/app/common/claim-dialog/common/confirm.tsx
+msgid "0/D50t"
+msgstr "Small Business Tax Exempt"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "14Z8Zm"
+msgstr "Tax Identification Number Missing"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "1dyET7"
+msgstr "Please enter your PayPal email"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "28YYdM"
+msgstr "Your Wallet (USDC)"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
 msgid "2oCaym"
 msgstr "Are you sure?"
 
 #: src/app/common/claim-dialog/common/confirm.tsx
+msgid "3LlCJ+"
+msgstr "Please fill out your address"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "3yk8fB"
+msgstr "Wallet"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "7Tm3v3"
+msgstr "Please fill out your account number"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "Aj4Xx4"
+msgstr "Bank Transfer"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "B3cRBQ"
+msgstr "Give Me Money"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "Biggzk"
+msgstr "Venmo"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "drOb8v"
+msgstr "Please enter your Venmo email"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "f/Ei3F"
+msgstr "If required, VAT will automatically be added to the payout amount."
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "f9eT5+"
+msgstr "PayPal Account"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "hu0rZJ"
+msgstr "Your Wallet (EURC)"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "KCwNyz"
+msgstr "This action is irreversible. You will receive your payout to the selected method."
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "lwquua"
+msgstr "Manual Account"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "p03D8i"
+msgstr "Payout Method"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "r/dTTe"
+msgstr "Tax Information"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "s+X78v"
+msgstr "Please contact support to set your bank details"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "TVcDb2"
+msgstr "Bank Account"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "vJd17C"
+msgstr "Receipt Address"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "wbtiQC"
+msgstr "PayPal"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "wEQDC6"
+msgstr "Edit"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "Y5dorm"
+msgstr "Venmo Account"
+
+#: src/app/common/claim-dialog/common/edit-vat.tsx
+msgid "NnNlrr"
+msgstr "Edit Tax Information"
+
+#: src/app/common/claim-dialog/common/edit-vat.tsx
+msgid "r9kyxO"
+msgstr "If you have a European VAT number, you need to provide it here."
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "4cdhFd"
+msgstr "Instant"
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "bdkpGH"
+msgstr "EURC"
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "cyR7Kh"
+msgstr "Back"
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "DvPfX2"
+msgstr "Paid out to your Venmo account."
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "HfR2zS"
+msgstr "USDC"
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "KJSm2O"
+msgstr "Paid out in EURC stablecoin on Base."
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "N2qYot"
+msgstr "Paid out to your Bank Account."
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "nFQbxh"
+msgstr "Payment Method"
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "rCIjHA"
+msgstr "Paid out in USDC stablecoin on Base."
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "SLncLM"
+msgstr "Paid out to your PayPal account."
+
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "x+qkab"
+msgstr "Please choose how you want to receive your payment."
+
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "8QFZZ7"
+msgstr "Enter PayPal Email"
+
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "BryriP"
+msgstr "Please enter the email address for your PayPal account"
+
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "dVbwlQ"
+msgstr "Please enter the email address for your Venmo account"
+
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "EvF/RD"
+msgstr "Enter Venmo Email"
+
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "NgCT/u"
+msgstr "Enter your email address"
+
+#: src/app/common/claim-dialog/common/paypal-venmo-email-edit.tsx
+msgid "xxQxLE"
+msgstr "Email Address"
+
+#: src/app/common/claim-dialog/common/success.tsx
+msgid "crYkrh"
+msgstr "Your payout has been completed successfully."
+
+#: src/app/common/claim-dialog/common/success.tsx
+msgid "rbrahO"
+msgstr "Close"
+
+#: src/app/common/claim-dialog/common/success.tsx
+msgid "uDbS3L"
+msgstr "Transaction Successful"
+
+#: src/app/common/claim-dialog/idle.tsx
+msgid "+U6ozc"
+msgstr "Type"
+
+#: src/app/common/claim-dialog/idle.tsx
+msgid "jCNpEL"
+msgstr "Period"
+
+#: src/app/common/claim-dialog/idle.tsx
+msgid "MJ2jZQ"
+msgstr "Total"
+
+#: src/app/common/claim-dialog/idle.tsx
+msgid "nTsN1j"
+msgstr "Claim Payouts"
+
+#: src/app/common/claim-dialog/idle.tsx
+msgid "POnG+E"
+msgstr "You have {count, plural, =0 {no unclaimed payouts} =1 {one unclaimed payout} other {# unclaimed payouts}}."
+
+#: src/app/common/claim-dialog/idle.tsx
+msgid "uT4OlP"
+msgstr "Fee"
+
+#: src/app/common/instagram-connect-button.tsx
+msgid "QP0U8P"
+msgstr "Connect Instagram Account"
+
+#: src/app/common/tiktok-connect-button.tsx
+msgid "gumcE0"
+msgstr "Connect TikTok Account"
+
+#: src/app/common/youtube-channel-connect-button.tsx
+msgid "F6l5ie"
+msgstr "Connect YouTube Channel"
+
 #: src/components/auth-flow.tsx
-msgid "N2IrpM"
-msgstr "Confirm"
+msgid "172N3w"
+msgstr "Please wait..."
 
-#: src/app/Counter.tsx
-msgid "jm1lmy"
-msgstr "Count: {count, number}"
+#: src/components/auth-flow.tsx
+msgid "4cSA+G"
+msgstr "Or continue with"
 
-#: src/app/Counter.tsx
-msgid "tQLRmz"
-msgstr "Increment"
+#: src/components/auth-flow.tsx
+msgid "64KKhf"
+msgstr "New Here?"
 
-#. Default meta title if not overridden by pages
-#: src/app/layout.tsx
-msgid "lNLCAE"
-msgstr "next-intl example"
+#: src/components/auth-flow.tsx
+msgid "9b9Fsq"
+msgstr "Enter your email below to sign in."
 
-#: src/app/page.tsx
-msgid "vlslj0"
-msgstr "Hey {name}!"
+#: src/components/auth-flow.tsx
+msgid "a+jGyk"
+msgstr "Already Have An Account"
+
+#: src/components/auth-flow.tsx
+msgid "BYERik"
+msgstr "Sign the message"
+
+#: src/components/auth-flow.tsx
+msgid "crLCSP"
+msgstr "Waiting for the message to be signed."
+
+#: src/components/auth-flow.tsx
+msgid "CZeAQ4"
+msgstr "Sign in with Base"
+
+#: src/components/auth-flow.tsx
+msgid "cZKlai"
+msgstr "lord-of@talentir.com"
+
+#: src/components/auth-flow.tsx
+msgid "d/8Tm6"
+msgstr "Loading the user profile."
+
+#: src/components/auth-flow.tsx
+msgid "F4vnLK"
+msgstr "For security we need your confirmation. You are already connected as"
+
+#: src/components/auth-flow.tsx
+msgid "f85CsR"
+msgstr "Use Different Account"
+
+#: src/components/auth-flow.tsx
+msgid "J+S/E8"
+msgstr "Invalid Email"
+
+#: src/components/auth-flow.tsx
+msgid "JaFWU9"
+msgstr "Verifying the signature."
+
+#: src/components/auth-flow.tsx
+msgid "MRsUMA"
+msgstr "Sign up with Base"
+
+#: src/components/auth-flow.tsx
+msgid "MU8yG7"
+msgstr "Connect your account"
+
+#: src/components/auth-flow.tsx
+msgid "NUg5gK"
+msgstr "Wrong Token!"
+
+#: src/components/auth-flow.tsx
+msgid "qgmLJN"
+msgstr "Enter your email below to create your account."
+
+#: src/components/auth-flow.tsx
+msgid "QrGObq"
+msgstr "Welcome on Board"
+
+#: src/components/auth-flow.tsx
+msgid "uNgqij"
+msgstr "Please reenter the token we sent to"
+
+#: src/components/auth-flow.tsx
+msgid "uSgGm1"
+msgstr "Loading your account..."
+
+#: src/components/auth-flow.tsx
+msgid "V5P+YR"
+msgstr "Connect your wallet..."
+
+#: src/components/auth-flow.tsx
+msgid "WOmKDG"
+msgstr "Confirm Account"
+
+#: src/components/auth-flow.tsx
+msgid "Y90AXN"
+msgstr "Please enter the token we sent to"

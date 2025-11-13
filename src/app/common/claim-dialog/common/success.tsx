@@ -2,7 +2,7 @@ import {useExtracted} from 'next-intl';
 
 export default function Content() {
   const t = useExtracted();
-  t('Save');
-  t('Edit Address');
-  t('Go Back');
+  t('Close');
+  t('Transaction Successful');
+  t('Your payout has been completed successfully.');
 }
