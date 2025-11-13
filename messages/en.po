@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: next-intl\n"
+"X-Crowdin-SourceKey: msgstr\n"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "YdQxfw"
+msgstr "Contact Support"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "Q8Qw5B"
+msgstr "Description"
+
+#: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
+msgid "HEfhYI"
+msgstr "E-Mail"
+
+#: src/app/[locale]/dashboard/common/claim/personal-data.tsx
+#: src/app/common/claim-dialog/common/payment-method.tsx
+msgid "acrOoz"
+msgstr "Continue"
+
+#: src/app/common/claim-dialog/common/address-edit.tsx
+#: src/app/common/claim-dialog/common/bank-details-edit.tsx
+#: src/app/common/claim-dialog/common/edit-vat.tsx
+msgid "ekfOaV"
+msgstr "Go Back"
+
+#: src/app/common/claim-dialog/common/bank-details-edit.tsx
+msgid "0YLIwT"
+msgstr "Edit Bank Details"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+msgid "2oCaym"
+msgstr "Are you sure?"
+
+#: src/app/common/claim-dialog/common/confirm.tsx
+#: src/components/auth-flow.tsx
+msgid "N2IrpM"
+msgstr "Confirm"
+
+#: src/app/Counter.tsx
+msgid "jm1lmy"
+msgstr "Count: {count, number}"
+
+#: src/app/Counter.tsx
+msgid "tQLRmz"
+msgstr "Increment"
+
+#. Default meta title if not overridden by pages
+#: src/app/layout.tsx
+msgid "lNLCAE"
+msgstr "next-intl example"
+
+#: src/app/page.tsx
+msgid "vlslj0"
+msgstr "Hey {name}!"
