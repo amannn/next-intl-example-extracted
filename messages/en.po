@@ -7,18 +7,18 @@ msgstr ""
 "X-Crowdin-SourceKey: msgstr\n"
 
 #: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
-#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
-#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
-msgid "YdQxfw"
-msgstr "Contact Support"
+msgid "HEfhYI"
+msgstr "E-Mail"
 
 #: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
 msgid "Q8Qw5B"
 msgstr "Description"
 
 #: src/app/[locale]/(public-side-by-side)/payout/[uuid]/content.tsx
-msgid "HEfhYI"
-msgstr "E-Mail"
+#: src/app/[locale]/dashboard/common/claim/bank-data.tsx
+#: src/app/[locale]/dashboard/common/claim/tax-data.tsx
+msgid "YdQxfw"
+msgstr "Contact Support"
 
 #: src/app/[locale]/dashboard/common/claim/personal-data.tsx
 #: src/app/common/claim-dialog/common/payment-method.tsx
